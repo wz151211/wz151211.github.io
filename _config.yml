@@ -7,7 +7,7 @@ description: "Every failure is leading towards success."
 keyword: "W·Z, W·Z Blog, 老王的博客, Java, Spring Cloud, Spring Boot, 微服务"
 url: "https://wz151211.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/wz151211/wz151211.github.io.git" # you code repository
+github_repo: "https://github.com/wz151211/uu-store-master.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
